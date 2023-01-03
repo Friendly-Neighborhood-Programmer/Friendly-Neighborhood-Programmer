@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,pug,latex,rust,godot,lua,git,github,vscode,visualstudio,idea,unity,unreal,nodejs,express,mongodb,openstack,figma,svg,markdown,discord,ae,ps,pr,blender&perline=10">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,pug,latex,rust,godot,lua,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,figma,svg,markdown,discord,ae,ps,pr,blender&perline=10">
 </br>
 </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendly-Neighborhood-Programmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
