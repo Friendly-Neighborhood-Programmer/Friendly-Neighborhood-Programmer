@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendly-Neighborhood-Programmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-# Projects
+<!-- # Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1501-Intro-To-Game-Design&repo=1501-final-project-2022-the-team-that-is-going-to-kill-thanos
 )](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-the-team-that-is-going-to-kill-thanos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BruteYapper&repo=Coastal_Hacks_Projects)](https://github.com/BruteYapper/Coastal_Hacks_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BruteYapper&repo=Coastal_Hacks_Projects)](https://github.com/BruteYapper/Coastal_Hacks_Projects) -->
