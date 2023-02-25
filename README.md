@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   Computer Science student with interests in game development and design, computer and internet security and artificial intelligence.
 </p>
 
+<p align="center">
+  <a href= "https://sakurademon.itch.io/" target="_blank"><img src="https://static.itch.io/images/badge-color.svg" width="15%"/></a>
+</p>
+
 # 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,pug,latex,rust,godot,lua,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,svg,markdown,discord,ps,ai,pr,ae,blender&perline=10">
