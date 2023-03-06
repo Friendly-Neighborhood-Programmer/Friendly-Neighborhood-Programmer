@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,pug,latex,rust,godot,lua,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,svg,markdown,discord,ps,ai,pr,ae,blender&perline=10">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,rust,pug,latex,godot,lua,cs,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,svg,discord,ps,ai,ae,blender&perline=10">
 </br>
 </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendly-Neighborhood-Programmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+<!-- add back top used languages later -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendly-Neighborhood-Programmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p> -->
 
 <!-- # Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1501-Intro-To-Game-Design&repo=1501-final-project-2022-the-team-that-is-going-to-kill-thanos
