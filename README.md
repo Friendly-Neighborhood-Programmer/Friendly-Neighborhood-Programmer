@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,rust,pug,latex,godot,lua,cs,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,svg,discord,ps,ai,ae,blender&perline=10">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,rust,pug,latex,godot,lua,cs,git,github,nodejs,express,mongodb,openstack,vscode,visualstudio,idea,unity,unreal,linux,discord,ps,ai,ae,blender&perline=10">
 </br>
 </br>
 <!-- add back top used languages later -->
