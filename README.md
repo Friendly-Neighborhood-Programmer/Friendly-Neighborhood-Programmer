@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey I'm Isaac 👋
 <p>
-  Computer Science student with interests in game development and design, computer and internet security and artificial intelligence.
+  Computer Science student with interests in artificial intelligence and machine learning, game development, and security.
 </p>
 
 <p align="center">
